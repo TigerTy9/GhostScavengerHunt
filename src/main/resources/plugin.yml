@@ -19,7 +19,7 @@ permissions:
     children:
       ghostskull.spawn: true
       ghostskull.break: true
-    default: op
+    default: default
   ghostskull.spawn:
     default: op
   ghostskull.break:
